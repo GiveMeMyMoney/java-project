@@ -9,8 +9,6 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Nie wiem co robie :D");
 		System.out.println("Czy GIT dzia³a?");
-		System.out.println("Czy asd dzia³a?");
-
 	}
 
 }
